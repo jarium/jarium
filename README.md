@@ -3,7 +3,7 @@
 
 - :dragon: I have a web-based rpg game (Work in progress) [Olympus](https://olympus-game.online/)
 
-- 📫 How to reach me **efebyk97@gmail.com**
+- 📫 You can mail me **efebyk97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
