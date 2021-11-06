@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Efe</h1>
-<h3 align="center">I'm a passionate software developer from Istanbul/Turkey</h3>
+<h3 align="center">I'm a passionate software developer from Istanbul/Turkey</h3> <br>
 
 - :dragon: I have a web-based rpg game (Work in progress) [olympus-game.online](olympus-game.online)
 
