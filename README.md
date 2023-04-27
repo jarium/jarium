@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Efe</h1>
 <h3 align="center">I'm a passionate software developer from Istanbul/Turkey</h3>
 
-- 🐉 I have a web-based rpg game (Work in progress) [Olympus](https://olympus-game.fun/)
+- 🐉 I have a web-based rpg game (Work in progress) [Olympus](https://olympus-game.net/)
 
 - 📫 How to reach me **efebyk97@gmail.com**
 
